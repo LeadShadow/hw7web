@@ -31,7 +31,7 @@ Format style in console(client):
 ---
 
 ### Author
-[![GitHub Contributors Image](https://contrib.rocks/image?repo=LeadShadow/hw7web)](https://github.com/LeadShadow)
+[![GitHub Contributors Image](https://contrib.rocks/image?repo=LeadShadow/hw6web)](https://github.com/LeadShadow)
 
 ---
 ### License
