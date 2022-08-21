@@ -29,10 +29,8 @@ Format style in console(client):
      received message: I'm fine =) and you?
     --> That's cool me too =)
 ---
-
 ### Author
 [![GitHub Contributors Image](https://contrib.rocks/image?repo=LeadShadow/hw6web)](https://github.com/LeadShadow)
-
 ---
 ### License
 
