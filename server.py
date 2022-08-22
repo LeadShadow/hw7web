@@ -25,7 +25,8 @@ def main():
     server_socket.bind((host, port))
     server_socket.listen(10)
     with futures.ThreadPoolExecutor(10) as pool:
-        while True:
+        conn = ''
+        while not conn:
             conn, address = server_socket.accept()
             pool.submit(handle, conn)
             print(f'\033[034m Connection from {address}\033[0m')
